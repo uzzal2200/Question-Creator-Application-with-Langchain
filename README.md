@@ -42,6 +42,8 @@ flowchart LR
 
 > Note: Some markdown renderers (including GitHub) don't render Mermaid diagrams by default. Use a previewer or the online Mermaid live editor to view it.
 
+A standalone, editable Mermaid diagram is available at `diagrams/architecture.mmd`.
+
 ---
 
 ## Quick Start (Development)
