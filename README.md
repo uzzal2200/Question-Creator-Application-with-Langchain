@@ -307,10 +307,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Boktiar Ahmed Bappy**
+**MD Uzzal Mia**
 
-- Email: entbappy73@gmail.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: uzzal.ice.pust@gmail.com
+- GitHub: [@yourusername](https://github.com/uzzal2200/Question-Creator-Application-with-Langchain)
 
 ---
 
@@ -336,3 +336,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
+
